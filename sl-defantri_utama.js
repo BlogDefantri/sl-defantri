@@ -21,12 +21,12 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*6)+ 1);
 var xxx=null;
-if(x=="1"){xxx="secrets-your-auto-insurance-company.html"}
-if(x=="2"){xxx="people-in-the-financial-profession.html"}
-if(x=="3"){xxx="why-bother-home-schooling.html"}
-if(x=="4"){xxx="five-reasons-to-home-school.html"}
-if(x=="5"){xxx="financial-security-structured.html"}
-if(x=="6"){xxx="taxes-on-a-structured-settlements.html"}a_to_ve[i].href="https://file.defantri.com/2019/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="article-11.html"}
+if(x=="2"){xxx="article-12.html"}
+if(x=="3"){xxx="article-13.html"}
+if(x=="4"){xxx="article-14.html"}
+if(x=="5"){xxx="article-15.html"}
+if(x=="6"){xxx="article-16.html"}a_to_ve[i].href="https://file.defantri.com/2022/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
